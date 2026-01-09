@@ -3,7 +3,8 @@
 This repository is a fork of:
 https://github.com/porti206/southamerican-qualifiers
 
-This project was developed collaboratively as part of a university assignment.
+This project was developed collaboratively as part of a university assignment
+for the course **Investigación Operativa**, during the **second semester of 2023**.
 
 # Programming the South American Qualifiers for the FIFA 2018 World Cup using Integer Programming
 
